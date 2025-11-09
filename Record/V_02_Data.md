@@ -1,3 +1,4 @@
+      // Version 2 - All constants (Till Grad)
     
       // Common
       static const Get  = "Get In Touch";
