@@ -1,0 +1,14 @@
+https://github.com/MrHAM17/Portfolio/tree/Version_Track/V_03_2nd_Stable%20Version
+
+
+Version 03 @ 2nd Stable Version
+Its a 2nd stable version of portfolio.
+It was released on Firebase ( 11th Nov 2025 ).
+
+
+- All sections’ data fully updated and verified.
+- Added recent and pending projects with complete metadata.
+- Integrated latest resume using Google Drive folder link to ensure data consistency and auto-update without redeployment.
+- Implemented web view support in mobile for project previews.
+- Centralized and converted all static data across the codebase into constants for cleaner architecture and maintainability.
+- Improved overall performance and load time by removing unnecessary snapshots, redundant data, and unused assets.
